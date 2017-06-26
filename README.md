@@ -12,3 +12,7 @@ Tính năng:
 Thư viện:
 - Components.Utility (https://github.com/vieapps/Components.Utility)
 - Books.Components (https://github.com/vieapps/Books.Components)
+
+Môi trường:
+- Visual Studio 2015
+- .NET Framework v4.7
