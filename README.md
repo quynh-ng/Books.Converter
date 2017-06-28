@@ -11,7 +11,7 @@ Tính năng:
 
 Thư viện:
 - Components.Utility (https://github.com/vieapps/Components.Utility)
-- Books.Components (https://github.com/vieapps/Books.Components)
+- Books.Components (https://github.com/quynhng/Books.Components)
 
 Môi trường:
 - Visual Studio 2015
