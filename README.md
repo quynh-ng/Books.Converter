@@ -16,3 +16,7 @@ Thư viện:
 Môi trường:
 - Visual Studio 2015
 - .NET Framework v4.7
+
+----------
+
+This is a tool for normalizing and converting the resources of vnthuquan.net & isach.info into two kinds of ebook (.EPUB & .MOBI). That why the introduction is in Vietnamese (and might be useful for Vietnamese users only)
